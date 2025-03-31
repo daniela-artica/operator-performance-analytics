@@ -24,7 +24,7 @@ The company considers an operator inefficient if they:
 
 ## Key Insights
 
-1. **Correlation analysis:**
+**Correlation analysis:**
   
   - A strong positive correlation was found between the number of calls handled by an operator and the wait time, implying that higher call volume may signal an increase of waiting times and, therefore, an operator's inefficiency.
      
@@ -34,7 +34,7 @@ The company considers an operator inefficient if they:
      
   - Operators with the highest missed call rates also had the longest wait times, indicating a correlation between these two inefficiency factors.
 
-2. **Hypothesis testing:**
+**Hypothesis testing:**
 A series of hypothesis were tested to validate which factors affect operators performance the most.
 
   -  Hypothesis 1: There are significant differences in the average wait time between operators who handle both types of calls and those who handle only incoming calls.
