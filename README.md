@@ -20,11 +20,11 @@ The company considers an operator inefficient if they:
   
   **3. Operators handling only outgoing calls:** Four inefficient operators were identified, as they rank in the bottom 25% in terms of the number of outgoing calls.
   
--Correlation analysis showed that the call volume is a crucial factor that impacts an operator's efficiency. A high workload is closely linked to higher levels of inefficiency, suggesting that monitoring and managing workload are essential for optimizing operator efficiency.
+- Correlation analysis showed that the call volume is a crucial factor that impacts an operator's efficiency. A high workload is closely linked to higher levels of inefficiency, suggesting that monitoring and managing workload are essential for optimizing operator efficiency.
 
 ## Key Insights
 
-1 **Correlation analysis:**
+1. **Correlation analysis:**
   
   - A strong positive correlation was found between the number of calls handled by an operator and the wait time, implying that higher call volume may signal an increase of waiting times and, therefore, an operator's inefficiency.
      
@@ -48,12 +48,15 @@ A series of hypothesis were tested to validate which factors affect operators pe
   -  Hypothesis 5: There is a significant relationship between the total number of calls handled by an operator and the wait time for calls.
 
 **Hypothesis 1, 2 and 3: Rejected** 
+
 The operators' work mode does not affect their efficiency in terms of the number of missed calls, wait time, or the number of outgoing calls made.
 
 **Hypothesis 4: Confirmed**
+
 With a correlation of 0.4, it can be concluded that there is a moderate positive correlation between the total number of calls handled and the number of missed calls. In other words, as an operator's workload increases, the number of missed calls also rises, leading to greater inefficiency.
 
 **Hypothesis 5: Confirmed**
+
 The Pearson correlation value of 0.86 indicates a very strong positive linear relationship between workload and an operator's wait time. As the operator receives more calls, the wait time also increases, leading to greater inefficiency.
 
 ## Recommendations
